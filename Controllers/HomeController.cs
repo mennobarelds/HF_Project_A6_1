@@ -22,7 +22,7 @@ namespace HF_Project_A6_1.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contactiationis page.";
 
             return View();
         }
