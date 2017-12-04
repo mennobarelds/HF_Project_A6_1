@@ -15,6 +15,8 @@ namespace HF_Project_A6_1.Controllers
     [Authorize]
     public class AccountController : Controller
     {
+
+        //test
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
