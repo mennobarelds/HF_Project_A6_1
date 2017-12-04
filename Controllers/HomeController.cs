@@ -15,7 +15,7 @@ namespace HF_Project_A6_1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your program description page.";
+            ViewBag.Message = "Your programs description page.";
 
             return View();
         }
